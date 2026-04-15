@@ -1,0 +1,21 @@
+{
+    "name": "Common.Editor",
+    "rootNamespace": "Common.Editor",
+    "references": [
+        "Common.Runtime",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Phase2.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

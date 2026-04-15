@@ -1,0 +1,17 @@
+Category,MenuName,MenuID,Price,OptionsType
+커피,아메리카노,americano,4500,coffee
+커피,카페라떼,cafelatte,5000,coffee
+커피,바닐라라떼,vanilla,6000,coffee
+커피,카라멜마끼아또,caramel,6000,coffee
+논커피,초코라떼,choco,6000,hotchoco
+논커피,녹차라떼,greentea,6000,hotchoco
+논커피,레몬 에이드,lemon_ade,5000,ade
+논커피,자몽 에이드,grapefruit_ade,5000,ade
+논커피,청포도 에이드,greengrape_ade,5000,ade
+빵,소금빵,saltbread,3500,none
+빵,스콘,scone,3000,none
+빵,크루아상,croissant,3500,none
+빵,베이글,bagel,4000,none
+케이크,딸기 케이크,strawberry_cake,6500,none
+케이크,초코 케이크,choco_cake,6000,none
+케이크,치즈 케이크,cheese_cake,6000,none

@@ -1,0 +1,22 @@
+{
+    "name": "Phase2.Editor",
+    "rootNamespace": "Phase2.Editor",
+    "references": [
+        "Phase2.Runtime",
+        "Common.Runtime",
+        "Common.Editor",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -6,9 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: 6559f1ee4eee07540a9024ab63de8960
+    path: Assets/Minjoon/Scene_Main.unity
+    guid: 9fc3bd50a8782da4b8c88f3717d6f5e7
   - enabled: 1
+    path: Assets/Minjoon/Scene_DifficultySelect.unity
+    guid: c41ff12e51b330c4788ee633ba668328
+  - enabled: 1
+    path: Assets/Minjoon/FrameWork01.unity
+    guid: bbc8e3f33d05e1a4ba744fac901d322c
+  - enabled: 0
     path: Assets/Scenes/PlayScene.unity
     guid: 2ae64863d9095854aa1d442f2f85ecb9
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: 6559f1ee4eee07540a9024ab63de8960
   m_configObjects: {}
